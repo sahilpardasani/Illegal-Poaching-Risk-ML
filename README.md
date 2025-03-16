@@ -42,3 +42,8 @@ Install Dependencies: pip install pandas scikit-learn optuna joblib sqlalchemy
 Load the Data: You can find the dataset on the internet.
 Run the Code: Execute the script to preprocess the data, train the model, and evaluate its performance.
 Save the Model: The trained model will be saved to a file
+
+Future Work
+Feature Selection: Explore feature importance and select the most relevant features for the model.
+Model Improvement: Experiment with other machine learning algorithms such as Gradient Boosting or Neural Networks.
+Real-Time Prediction: Deploy the model as a web service using Flask or FastAPI for real-time predictions.
